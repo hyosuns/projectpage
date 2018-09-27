@@ -1,0 +1,31 @@
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  color: darkblue;
+  background-color: lightsteelblue;
+}
+
+#menubar ul {
+  height: 50px;
+  list-style-type: none;
+  background-color: Ivory;
+}
+
+#menubar li {
+  display: inline;
+}
+
+#menubar a {
+  margin-right: 45px;
+  margin-left: 45px;
+  text-decoration: none;
+}
+
+.left {
+  float: left;
+  width: 30px;
+  margin: 15px;
+  padding: 1em;
+}
+
+
